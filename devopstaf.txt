@@ -1,1 +1,2 @@
-je fais une formation en devops actuellement je commence par git et github
+je fais une formation en devops actuellement je commence par git et github et la cest la mise a jour de mon push
+
